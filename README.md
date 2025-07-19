@@ -1,4 +1,4 @@
-# 🧠 MindMirror – A Mental Health Companion Powered by AI & Play
+# 🧠 MinDora – A Mental Health Companion Powered by AI & Play
 
 > *An emotionally intelligent wellness platform that combines AI, gamification, and reflection for neurodivergent users and everyone seeking clarity.*
 ![mind1](https://github.com/user-attachments/assets/d4a02a64-0055-47be-8478-c7d187f8c1d4)
@@ -6,7 +6,7 @@
 
 ## 🌟 Overview
 
-**MindMirror** is an all-in-one web platform designed to support mental wellness through:
+**MinDora** is an all-in-one web platform designed to support mental wellness through:
 - An AI Companion that reacts to user moods in real time
 - A motivational mental health game: *Lowlands*
 - An interactive journaling agent
